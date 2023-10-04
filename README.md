@@ -1,7 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Muhammad Ali Hasnain
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ============================================================================================================================================
 
-Web Developer and AI
 --------------------
 
 I’m a sophomore at the University of Waterloo studying computer science with a focus on Artificial Intelligence. Currently geeking over Ruby and C.
@@ -30,7 +29,5 @@ I’m a sophomore at the University of Waterloo studying computer science with a
 <a href="http://www.github.com/ali14hasnain"><img src="https://github-readme-stats.vercel.app/api?username=ali14hasnain&show_icons=true&hide=stars,prs,issues,contribs&count_private=true&title_color=3382ed&text_color=0891b2&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="ali14hasnain's GitHub stats" /></a>
 
 <a href="http://www.github.com/ali14hasnain"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ali14hasnain&stroke=0891b2&background=000000&ring=3382ed&fire=3382ed&currStreakNum=0891b2&currStreakLabel=3382ed&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a>
-
-<a href="http://www.github.com/ali14hasnain"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ali14hasnain&bg_color=000000&color=0891b2&line=3382ed&point=0891b2&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/ali14hasnain" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali14hasnain&langs_count=10&title_color=3382ed&text_color=0891b2&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
