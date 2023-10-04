@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I’m a sophomore at the University of Waterloo studying computer science with a focus on Artificial Intelligence. Currently geeking over Ruby and C.
 
-* 🌍  I'm based in Toronto
+* 🌍  I'm based in Toronto, Canada.
 * ✉️  You can contact me at [ali14hasnain@gmail.com](mailto:ali14hasnain@gmail.com)
 * 🧠  I'm learning R, C & Ruby
 * ⚡  Batman and I have never been in the same room. Go figure.
