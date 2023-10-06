@@ -6,7 +6,7 @@ I’m a sophomore at the University of Waterloo studying computer science with a
 * ✉️  You can contact me at [ali14hasnain@gmail.com](mailto:ali14hasnain@gmail.com)
 * 🧠  I'm learning R, C & Ruby
 * ⚡  Batman and I have never been in the same room. Go figure.
-
+* [![Netlify Status](https://api.netlify.com/api/v1/badges/b08be814-bc08-488d-a970-7edfbb8dd2de/deploy-status)](https://app.netlify.com/sites/melodious-frangollo-8701ea/deploys)
 ### Skills
 
 
