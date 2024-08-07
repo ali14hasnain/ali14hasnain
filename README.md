@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-I’m a sophomore at the University of Waterloo studying computer science with a focus on Artificial Intelligence. Currently geeking over Ruby and C.
+I’m a Junior at the University of Waterloo studying computer science with a focus on Artificial Intelligence. Currently geeking over React.js and Supabase.
 
 * 🌍  I'm based in Waterloo, Ontario, Canada.
 * ✉️  You can contact me at [ali14hasnain@gmail.com](mailto:ali14hasnain@gmail.com)
